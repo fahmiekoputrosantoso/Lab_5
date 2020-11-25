@@ -1,7 +1,55 @@
 # lab-5
 ## Latihan 1
 
-* Belom
+* Buat Dictionary daftar kontak
+* Tampilkan kontaknya rangga
+* tambah kontak baru dengan nama ujang dengan nomor 087645455
+* Ubah kontak ayu dengan nomor baru yaitu 0898888667
+* Tampilkan semua Nama
+* Tampilkan semua nomor
+* Tampilkan daftar nama dan nomor
+* Hapus kontak ayu
+
+##### Untuk contoh code nya bisa dilihat gambar dibawah ini :
+
+![pict1]
+![pict2]
+
+# Hasil Output :
+#### Daftar kontak :
+* Output menampilkan daftar kontak berdasarkan
+
+![pict3]
+
+#### Menambah kontak baru Ujang :
+* Output menambahkan kontak baru Riko
+
+![pict4]
+
+#### Ubah kontak ayu :
+* Output mengubah kontak dina dengan nomor baru
+
+![pict5]
+
+#### Tampilkan semua nama :
+* Output menampilkan semua Nama
+
+![pict6]
+
+#### Tampilkan semua nomor :
+* Output menampilkan semua nomor
+
+![pict7]
+
+#### Tamplikan daftar nama dan nomor :
+* Output menampilkan semua nama dan nomor
+
+![pict8]
+
+#### Hapus kontak ayu :
+* Output menghapus kontak ayu
+
+![pict9]
 
 ## Tugas Praktikum 5
 
