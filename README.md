@@ -12,44 +12,44 @@
 
 ##### Untuk contoh code nya bisa dilihat gambar dibawah ini :
 
-![pict1]
-![pict2]
+![pict1](assets/Latihan/pict1.PNG)
+![pict2](assets/Latihan/pict2.PNG)
 
 # Hasil Output :
 #### Daftar kontak :
 * Output menampilkan daftar kontak berdasarkan
 
-![pict3]
+![pict3](assets/Latihan/pict3.PNG)
 
 #### Menambah kontak baru Ujang :
-* Output menambahkan kontak baru Riko
+* Output menambahkan kontak baru ujang
 
-![pict4]
+![pict4](assets/Latihan/pict4.PNG)
 
 #### Ubah kontak ayu :
 * Output mengubah kontak dina dengan nomor baru
 
-![pict5]
+![pict5](assets/Latihan/pict5.PNG)
 
 #### Tampilkan semua nama :
 * Output menampilkan semua Nama
 
-![pict6]
+![pict6](assets/Latihan/pict6.PNG)
 
 #### Tampilkan semua nomor :
 * Output menampilkan semua nomor
 
-![pict7]
+![pict7](assets/Latihan/pict7.PNG)
 
 #### Tamplikan daftar nama dan nomor :
 * Output menampilkan semua nama dan nomor
 
-![pict8]
+![pict8](assets/Latihan/pict8.PNG)
 
 #### Hapus kontak ayu :
 * Output menghapus kontak ayu
 
-![pict9]
+![pict9](assets/Latihan/pict9.PNG)
 
 ## Tugas Praktikum 5
 
