@@ -5,14 +5,16 @@
 
 ## Tugas Praktikum 5
 
-![Gambar1]
+![Gambar1](assets/TugasPraktikum/Gambar1.PNG)
 
 **Code:**
 
-![Gambar2]
-![Gambar3]
-![Gambar4]
-![Gambar5]
+![Gambar2](assets/TugasPraktikum/Gambar2.PNG)
+![Gambar3](assets/TugasPraktikum/Gambar3.PNG)
+![Gambar4](assets/TugasPraktikum/Gambar4.PNG)
+![Gambar5](assets/TugasPraktikum/Gambar5.PNG)
+![Gambar6](assets/TugasPraktikum/Gambar6.PNG)
+![Gambar7](assets/TugasPraktikum/Gambar7.PNG)
 
 **Penjelasan:**
 
@@ -75,30 +77,30 @@
 
 Tambah data
 
-![Gambar6]
+![Gambar8](assets/TugasPraktikum/Gambar8.PNG)
 
 
 Ubah data
 
-![Gambar7]
+![Gambar9](assets/TugasPraktikum/Gambar9.PNG)
 
 
 Lihat data
 
-![Gambar8]
+![Gambar10](assets/TugasPraktikum/Gambar10.PNG)
 
 
 Cari data
 
-![Gambar9]
+![Gambar11](assets/TugasPraktikum/Gambar11.PNG)
 
 
 Hapus data
 
-![Gambar10]
+![Gambar12](assets/TugasPraktikum/Gambar13.PNG)
 
 
 **Flowchart:**
 
 
-![Gambar11]
+![Flowchart](assets/TugasPraktikum/flowchart.png)
